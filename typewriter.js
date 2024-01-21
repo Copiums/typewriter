@@ -1,4 +1,4 @@
-/*
+/* LMAO
  * Title: Typewriter JS
  * Descritpion: A native javascript plugin that can be used to create an elegent automatic typewriter animation effect on websites.
  * Author: Tameem Safi
